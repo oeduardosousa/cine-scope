@@ -2,6 +2,14 @@
 
 Uma aplicação web para descobrir filmes e séries, consultar informações detalhadas e montar uma lista pessoal de títulos para assistir depois.
 
+## Acesse o projeto
+
+Confira a versão publicada do CineScope:
+
+**[Acessar o CineScope](https://cine-scope-react28-ckyu4rwf6-eduardo-sousa1.vercel.app/)**
+
+O projeto está hospedado na Vercel.
+
 O CineScope apresenta conteúdos populares no Home, organizados em seções de filmes e séries, com busca, avaliações, sinopses, trailers e informações adicionais sobre cada título.
 
 ## Funcionalidades
@@ -25,11 +33,11 @@ O CineScope apresenta conteúdos populares no Home, organizados em seções de f
 - Lucide React
 - TMDB API
 
-## Como executar
+## Como executar localmente
 
 ### Pré-requisitos
 
-- Node.js 18 ou superior
+- Ambiente com suporte a projetos JavaScript e npm
 - Uma chave de acesso da API do [The Movie Database (TMDB)](https://www.themoviedb.org/)
 
 ### Instalação
@@ -84,4 +92,4 @@ O token da API deve permanecer apenas no arquivo local de ambiente e não deve s
 
 ## Status do projeto
 
-Projeto pessoal em desenvolvimento, criado para praticar construção de interfaces com React, integração com APIs externas e gerenciamento de estado no navegador.
+Projeto pessoal publicado e em desenvolvimento contínuo, criado para praticar construção de interfaces com React, integração com APIs externas e gerenciamento de estado no navegador.
