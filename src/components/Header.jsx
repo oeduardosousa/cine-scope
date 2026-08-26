@@ -1,7 +1,7 @@
 function Header({ onHomeClick, onMoviesClick, onSeriesClick, onMyListClick }) {
   return (
     <header className="sticky top-0 z-40 border-b border-slate-800 bg-slate-950/95 backdrop-blur">
-      <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5">
+      <div className="mx-auto flex max-w-7xl items-center justify-between gap-6 px-6 py-5">
         <button
           type="button"
           onClick={onHomeClick}
@@ -10,7 +10,7 @@ function Header({ onHomeClick, onMoviesClick, onSeriesClick, onMyListClick }) {
           Cine<span className="text-red-500">Scope</span>
         </button>
 
-        <nav className="flex items-center gap-6 text-sm font-medium text-slate-300">
+        <nav className="flex gap-4 text-sm font-medium text-slate-300 sm:gap-6">
           <button
             type="button"
             onClick={onHomeClick}
