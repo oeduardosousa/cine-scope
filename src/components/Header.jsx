@@ -10,7 +10,7 @@ function Header({ onHomeClick, onMoviesClick, onSeriesClick, onMyListClick }) {
           Cine<span className="text-red-500">Scope</span>
         </button>
 
-        <nav className="flex flex-wrap items-center gap-x-5 gap-y-2 text-sm font-medium text-slate-300 sm:gap-6">
+        <nav className="flex flex-wrap items-center gap-x-3 gap-y-2 text-sm font-medium text-slate-300 sm:gap-6">
           <button
             type="button"
             onClick={onHomeClick}
