@@ -6,7 +6,7 @@ Uma aplicação web para descobrir filmes e séries, consultar informações det
 
 Confira a versão publicada do CineScope:
 
-**[Acessar o CineScope]([https://cine-scope-react28.vercel.app/])**
+**[Acessar o CineScope](https://vercel.app)**
 
 O projeto está hospedado na Vercel.
 
@@ -93,4 +93,3 @@ O token da API deve permanecer apenas no arquivo local de ambiente e não deve s
 ## Status do projeto
 
 Projeto pessoal publicado e em desenvolvimento contínuo, criado para praticar construção de interfaces com React, integração com APIs externas e gerenciamento de estado no navegador.
- 
