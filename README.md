@@ -6,7 +6,7 @@ Uma aplicação web para descobrir filmes e séries, consultar informações det
 
 Confira a versão publicada do CineScope:
 
-**[Acessar o CineScope](https://cine-scope-react28-ckyu4rwf6-eduardo-sousa1.vercel.app/)**
+**[Acessar o CineScope]([https://cine-scope-react28-ckyu4rwf6-eduardo-sousa1.vercel.app/](https://cine-scope-react28.vercel.app/))**
 
 O projeto está hospedado na Vercel.
 
